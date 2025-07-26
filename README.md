@@ -16,7 +16,7 @@ To run this chatbot locally:
 1. **Clone the repository**
 
    ```bash
-   git clone git@mygit.th-deg.de:aw-student-projects/ain-internet-technologies/ss25/BotBuilders.git
+   git clone git@github.com:farhanfahim00/CryptoChatbot.git
    git pull origin main
    ```
 
