@@ -1,14 +1,5 @@
 # Crypto Investment Chatbot
 
-## Team Members
-
-| Name                 | Student ID | Email                                                                 |
-| -------------------- | ---------- | --------------------------------------------------------------------- |
-| Farhan Fahim Taimoor | 12400208   | [farhan.taimoor@stud.th-deg.de](mailto:farhan.taimoor@stud.th-deg.de) |
-| Sami Ul Haq          | 12400313   | [sami.haq@stud.th-deg.de](mailto:sami.haq@stud.th-deg.de)             |
-| Adam Muhammad        | 22405037   | [adam.muhammad@stud.th-deg.de](mailto:adam.muhammad@stud.th-deg.de)   |
-|                      |            |                                                                       |
-
 ## Getting Started
 
 To run this chatbot locally:
